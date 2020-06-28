@@ -5,7 +5,11 @@
     <entry>
       <title><![CDATA[filebrowser]]></title>
       <url>/2020/06/27/filebrowser/</url>
-      <content type="html"><![CDATA[<p>1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>github项目地址: <a href="https://github.com/filebrowser/filebrowser" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser</a><br>官方安装脚本: </p>
+      <content type="html"><![CDATA[<p>1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>github项目地址:</p>
+<blockquote>
+<p><a href="https://github.com/filebrowser/filebrowser" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser</a></p>
+</blockquote>
+<p>官方安装脚本:</p>
 <blockquote>
 <p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
 </blockquote>
@@ -15,7 +19,7 @@
 </blockquote>
 <p><strong>2.参数说明:</strong></p>
 <p><strong>filebrowser [-p] [-r] [–remove]</strong><br>【注:官方安装脚本安装后并不支持以下功能】<br>不输入任何参数 #启动filebrowser</p>
-<h3 id="1-一键安装代码如下"><a href="#1-一键安装代码如下" class="headerlink" title="1.一键安装代码如下:"></a>1.<strong>一键安装代码如下:</strong></h3><p>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>【github项目地址: <a href="https://github.com/filebrowser/filebrowser】" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser】</a><br>官方安装脚本: </p>
+<h3 id="1-一键安装代码如下"><a href="#1-一键安装代码如下" class="headerlink" title="1.一键安装代码如下:"></a>1.<strong>一键安装代码如下:</strong></h3><p>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>【github项目地址: <a href="https://github.com/filebrowser/filebrowser】" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser】</a><br>官方安装脚本:</p>
 <blockquote>
 <p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
 </blockquote>
@@ -73,7 +77,7 @@
                 <p></p>
             </figure>
 
-<p>[若有任何BUG请提交至 <a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
+<p>[若有任何BUG请提交至<a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
 ]]></content>
       
         <categories>
