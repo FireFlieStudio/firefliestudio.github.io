@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[filebrowser]]></title>
+      <url>/2020/06/27/filebrowser/</url>
+      <content type="html"><![CDATA[<p>1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>【github项目地址: <a href="https://github.com/filebrowser/filebrowser】" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser】</a><br>官方安装脚本: </p>
+<blockquote>
+<p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
+</blockquote>
+<p>我们的脚本:</p>
+<blockquote>
+<p>＃直接粘贴进终端即可<br>bash &lt;(curl -fsSL <a href="http://down.firefliestudio.com/Linux/filebrowser/install.sh" target="_blank" rel="noopener">http://down.firefliestudio.com/Linux/filebrowser/install.sh</a>)</p>
+</blockquote>
+<p><strong>2.参数说明:</strong></p>
+<p><strong>filebrowser [-p] [-r] [–remove]</strong><br>【注:官方安装脚本安装后并不支持一下全部功能】<br>不输入任何参数 #启动filebrowser</p>
+<h3 id="1-一键安装代码如下"><a href="#1-一键安装代码如下" class="headerlink" title="1.一键安装代码如下:"></a>1.<strong>一键安装代码如下:</strong></h3><p>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>【github项目地址: <a href="https://github.com/filebrowser/filebrowser】" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser】</a><br>官方安装脚本: </p>
+<blockquote>
+<p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
+</blockquote>
+<p>我们的脚本:</p>
+<blockquote>
+<p>＃直接粘贴进终端即可<br>bash &lt;(curl -fsSL <a href="http://down.firefliestudio.com/Linux/filebrowser/install.sh" target="_blank" rel="noopener">http://down.firefliestudio.com/Linux/filebrowser/install.sh</a>)</p>
+</blockquote>
+<p><strong>2.参数说明:</strong></p>
+<p><strong>filebrowser [-p] [-r] [–remove]</strong><br>【注:官方安装脚本安装后并不支持一下全部功能】<br>不输入任何参数 #启动filebrowser</p>
+<blockquote>
+<p>filebrowser&gt; filebrowser<br>＃启动filebrowser</p>
+</blockquote>
+<p>-p 端口　#更改默认端口</p>
+<blockquote>
+<p>filebrowser -p 8080<br>＃更改默认端口为8080</p>
+</blockquote>
+<p>-r #重新配置filebrowser</p>
+<blockquote>
+<p>filebrowser -r<br>＃重新配置filebrowser</p>
+</blockquote>
+<h4 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_search.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="2-在线编辑功能"><a href="#2-在线编辑功能" class="headerlink" title="2.在线编辑功能"></a>2.在线编辑功能</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_edit.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="３-在线查看图片"><a href="#３-在线查看图片" class="headerlink" title="３.在线查看图片"></a>３.在线查看图片</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_picture.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="４-在线播放音频"><a href="#４-在线播放音频" class="headerlink" title="４.在线播放音频"></a>４.在线播放音频</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_music.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="５-在线播放视频"><a href="#５-在线播放视频" class="headerlink" title="５.在线播放视频"></a>５.在线播放视频</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_video.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="6-用户注册-权限管理功能-该软件数据存储库为-filebrowser-db-文件"><a href="#6-用户注册-权限管理功能-该软件数据存储库为-filebrowser-db-文件" class="headerlink" title="6.用户注册,权限管理功能[该软件数据存储库为 filebrowser.db 文件]"></a>6.用户注册,权限管理功能[该软件数据存储库为 filebrowser.db 文件]</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_user_register.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="7-文件分享功能-仅限域内共享-万维网共享"><a href="#7-文件分享功能-仅限域内共享-万维网共享" class="headerlink" title="7.文件分享功能[仅限域内共享/万维网共享]"></a>7.文件分享功能[仅限域内共享/万维网共享]</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_file_share.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="8-各种文件处理功能-删除-移动-复制-多选处理等"><a href="#8-各种文件处理功能-删除-移动-复制-多选处理等" class="headerlink" title="8.各种文件处理功能[删除,移动,复制,多选处理等]"></a>8.各种文件处理功能[删除,移动,复制,多选处理等]</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_file.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h4 id="9-shell-估计是因为不会设置-我们的shell不能正常使用"><a href="#9-shell-估计是因为不会设置-我们的shell不能正常使用" class="headerlink" title="9.shell[估计是因为不会设置,我们的shell不能正常使用]"></a>9.shell[估计是因为不会设置,我们的shell不能正常使用]</h4><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_shell.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+
+<p>[若有任何BUG请提交至 <a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Linux </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> linux </tag>
+            
+            <tag> filebrowser </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
