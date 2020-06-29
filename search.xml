@@ -3,27 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[测试]]></title>
-      <url>/test/</url>
-      <content type="html"><![CDATA[<p>测试</p>
-]]></content>
-      
-        <categories>
-            
-            <category> -Linux </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> filebrowser </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[filebrowser]]></title>
       <url>/filebrowser/</url>
       <content type="html"><![CDATA[<p> 1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】</p>
@@ -115,6 +94,27 @@
             </figure>
 
 <p>[若有任何BUG请提交至 <a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
+]]></content>
+      
+        <categories>
+            
+            <category> -Linux </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> filebrowser </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[测试]]></title>
+      <url>/test/</url>
+      <content type="html"><![CDATA[<p>测试</p>
 ]]></content>
       
         <categories>
