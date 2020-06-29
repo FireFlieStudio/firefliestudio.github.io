@@ -111,27 +111,6 @@
         
     </entry>
     
-    <entry>
-      <title><![CDATA[测试]]></title>
-      <url>/test/</url>
-      <content type="html"><![CDATA[<p>测试</p>
-]]></content>
-      
-        <categories>
-            
-            <category> -Linux </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> filebrowser </tag>
-            
-        </tags>
-        
-    </entry>
-    
   
   
 </search>
