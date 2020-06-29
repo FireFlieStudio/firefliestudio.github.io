@@ -4,12 +4,13 @@
     
     <entry>
       <title><![CDATA[filebrowser]]></title>
-      <url>/2020/06/27/filebrowser/</url>
-      <content type="html"><![CDATA[<p>1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>github项目地址:</p>
+      <url>/filebrowser/</url>
+      <content type="html"><![CDATA[<p> 1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】</p>
+<p>github项目地址:</p>
 <blockquote>
 <p><a href="https://github.com/filebrowser/filebrowser" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser</a></p>
 </blockquote>
-<p>官方安装脚本:</p>
+<p>官方安装脚本: </p>
 <blockquote>
 <p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
 </blockquote>
@@ -18,19 +19,10 @@
 <p>＃直接粘贴进终端即可<br>bash &lt;(curl -fsSL <a href="http://down.firefliestudio.com/Linux/filebrowser/install.sh" target="_blank" rel="noopener">http://down.firefliestudio.com/Linux/filebrowser/install.sh</a>)</p>
 </blockquote>
 <p><strong>2.参数说明:</strong></p>
-<p><strong>filebrowser [-p] [-r] [–remove]</strong><br>【注:官方安装脚本安装后并不支持以下功能】<br>不输入任何参数 #启动filebrowser</p>
-<h3 id="1-一键安装代码如下"><a href="#1-一键安装代码如下" class="headerlink" title="1.一键安装代码如下:"></a>1.<strong>一键安装代码如下:</strong></h3><p>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】<br>【github项目地址: <a href="https://github.com/filebrowser/filebrowser】" target="_blank" rel="noopener">https://github.com/filebrowser/filebrowser】</a><br>官方安装脚本:</p>
+<p><strong>filebrowser [-p] [-r] [–remove]</strong></p>
+<p>【注:官方安装脚本安装后并不支持以下功能】<br>不输入任何参数 #启动filebrowser</p>
 <blockquote>
-<p>＃直接粘贴进终端即可<br>curl -fsSL <a href="https://filebrowser.xyz/get.sh" target="_blank" rel="noopener">https://filebrowser.xyz/get.sh</a> | bash</p>
-</blockquote>
-<p>我们的脚本:</p>
-<blockquote>
-<p>＃直接粘贴进终端即可<br>bash &lt;(curl -fsSL <a href="http://down.firefliestudio.com/Linux/filebrowser/install.sh" target="_blank" rel="noopener">http://down.firefliestudio.com/Linux/filebrowser/install.sh</a>)</p>
-</blockquote>
-<p><strong>2.参数说明:</strong></p>
-<p><strong>filebrowser [-p] [-r] [–remove]</strong><br>【注:官方安装脚本安装后并不支持一下全部功能】<br>不输入任何参数 #启动filebrowser</p>
-<blockquote>
-<p>filebrowser&gt; filebrowser<br>＃启动filebrowser</p>
+<p>filebrowser<br>＃启动filebrowser</p>
 </blockquote>
 <p>-p 端口　#更改默认端口</p>
 <blockquote>
@@ -40,7 +32,31 @@
 <blockquote>
 <p>filebrowser -r<br>＃重新配置filebrowser</p>
 </blockquote>
-<h4 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h4><figure class="image-box">
+<p>–remove #卸载filebrowser</p>
+<blockquote>
+<p>filebrowser –remove<br>＃卸载filebrowser</p>
+</blockquote>
+<p><strong>3.使用说明:</strong></p>
+<blockquote>
+<p>＃默认本地登入地址:<br><a href="http://127.0.0.1:8080" target="_blank" rel="noopener">http://127.0.0.1:8080</a><br>远程/域内登入地址:<br><a href="http://ip:端口">http://ip:端口</a><br>**<br>当前ip获取方法:<br>Windows系统: ipconfig<br>Linux系统: ifconfig<br>**<br>[若您不知道当前默认端口为多少时您可以直接输入: filebrowser -p 端口 以重置默认端口]</p>
+</blockquote>
+<p><strong>4.UI展示:</strong><br>登陆页面</p>
+<hr>
+<figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_login.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h2 id="登入后的页面"><a href="#登入后的页面" class="headerlink" title="登入后的页面"></a>登入后的页面</h2><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_index.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+<h2 id="设置页面"><a href="#设置页面" class="headerlink" title="设置页面"></a>设置页面</h2><figure class="image-box">
+                <img src="http://lsky.firefliestudio.com/2020/filebrowser_settings.png" alt="" title="" class="">
+                <p></p>
+            </figure>
+
+<p>2020-06-27 19:44:53 星期六————</p>
+<h3 id="功能支持"><a href="#功能支持" class="headerlink" title="功能支持:"></a>功能支持:</h3><h4 id="1-搜索功能"><a href="#1-搜索功能" class="headerlink" title="1.搜索功能"></a>1.搜索功能</h4><figure class="image-box">
                 <img src="http://lsky.firefliestudio.com/2020/filebrowser_search.png" alt="" title="" class="">
                 <p></p>
             </figure>
@@ -77,19 +93,38 @@
                 <p></p>
             </figure>
 
-<p>[若有任何BUG请提交至<a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
+<p>[若有任何BUG请提交至 <a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a> ,感谢您的使用!]</p>
 ]]></content>
       
         <categories>
             
-            <category> Linux </category>
+            <category> -Linux </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> linux </tag>
+            <tag> filebrowser </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[测试]]></title>
+      <url>/test/</url>
+      <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+      
+        <categories>
+            
+            <category> -Linux </category>
+            
+        </categories>
+        
+        
+        <tags>
             
             <tag> filebrowser </tag>
             
