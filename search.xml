@@ -3,9 +3,9 @@
   
     
     <entry>
-      <title><![CDATA[定时任务测试]]></title>
+      <title><![CDATA[测试]]></title>
       <url>/test/</url>
-      <content type="html"><![CDATA[<p>2020-06-30 181. :11:05 星期二</p>
+      <content type="html"><![CDATA[<p>测试</p>
 ]]></content>
       
         <categories>
@@ -17,7 +17,7 @@
         
         <tags>
             
-            <tag> filebrowser </tag>
+            <tag> Linux </tag>
             
         </tags>
         
