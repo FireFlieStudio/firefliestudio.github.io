@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title><![CDATA[awsl]]></title>
+      <url>/awsl/</url>
+      <content type="html"><![CDATA[<p>awsl</p>
+]]></content>
+      
+        <categories>
+            
+            <category> -Linux </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[filebrowser]]></title>
       <url>/filebrowser/</url>
       <content type="html"><![CDATA[<p> 1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】</p>
