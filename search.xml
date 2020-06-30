@@ -3,29 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[FireFlieStudio官方网站投入使用]]></title>
-      <url>/4/</url>
-      <content type="html"><![CDATA[<p>FireFlieStudio官方网站于2019.6.30-22:30全面测试完毕，将正式投入使用官方网站:<a href="http://www.firefliestudio.com" target="_blank" rel="noopener">www.firefliestudio.com</a>欢迎各位访问(●’◡’●)ﾉ❤如果你有什么建议或者意见可以给我们发邮件<a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a>官方网站:<a href="http://www.firefliestudio.com" target="_blank" rel="noopener">www.firefliestudio.com</a>欢迎各位访问(●’◡’●)ﾉ❤如果你有什么建议或者意见可以给我们发邮件<a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a></p>
-]]></content>
-      
-        <categories>
-            
-            <category> FireFlieStudio </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Axeman </tag>
-            
-            <tag> Announcement </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[filebrowser]]></title>
       <url>/filebrowser/</url>
       <content type="html"><![CDATA[<p> 1.<strong>一键安装代码如下:</strong><br>【注:本脚本适用于Linux和Termux】<br>【注:该软件并非我们团队编写,我们仅编写了一键安装脚本】</p>
@@ -109,6 +86,32 @@
             <tag> Linux </tag>
             
             <tag> filebrowser </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[FireFlieStudio官方网站投入使用]]></title>
+      <url>/web_site/</url>
+      <content type="html"><![CDATA[<p>FireFlieStudio官方网站于2019.6.30-22:30全面测试完毕，将正式投入使用官方网站:</p>
+<p><a href="http://www.firefliestudio.com" target="_blank" rel="noopener">www.firefliestudio.com</a></p>
+<p>欢迎各位访问(●’◡’●)ﾉ❤如果你有什么建议或者意见可以给我们发邮件</p>
+<p><a href="mailto:firefliestudio@163.com">firefliestudio@163.com</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> FireFlieStudio </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Axeman </tag>
+            
+            <tag> Announcement </tag>
             
         </tags>
         
